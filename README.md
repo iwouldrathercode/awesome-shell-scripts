@@ -1,6 +1,6 @@
-# awesome-shell-scripts
+# iwouldrathercode/awesome-shell-scripts
 
-> A curated list of shell scripts each for installing and configuring different web applications - (UN-MAINTAINED there are better approaches like docker / kubernetes to achieve the same now
+A curated list of shell scripts each for installing and configuring different web applications - (UN-MAINTAINED there are better approaches like docker / kubernetes to achieve the same now
 
 # Usage
 Run the app scripts on app server by executing <App Name>_DB.sh on it's box
